@@ -1,2 +1,4 @@
-# medical_software_practice_notes
-记录使用医学影像相关软件的技巧
+# Medical Software Practice Notes
+- 记录使用医学影像相关软件的技巧
+- ​
+
